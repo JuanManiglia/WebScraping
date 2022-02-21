@@ -1,0 +1,14 @@
+beautifulsoup4==4.10.0
+jupyter==1.0.0
+jupyter-client==7.1.2
+jupyter-console==6.4.0
+jupyter-core==4.9.2
+jupyterlab-pygments==0.1.2
+jupyterlab-widgets==1.0.2
+lxml==4.8.0
+numpy==1.21.2
+pandas==1.4.1
+requests==2.27.1
+scipy==1.7.1
+selenium==4.1.0
+urllib3==1.26.8
