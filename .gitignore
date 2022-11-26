@@ -133,6 +133,6 @@ BeautifulSoup_PROF.ipynb
 imdb_solution.ipynb
 Selenium_PROF.ipynb
 labirratorium_task_PROFE.ipynb
-*.csv
+top_250_movies.csv
 *.exe
 *.py
